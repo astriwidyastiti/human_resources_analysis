@@ -53,3 +53,11 @@ Berdasarkan hasil clustering dengan menggunakan kMeans dan visualisasi masing-ma
 5. Pekerja yang memiliki Monthly Rate di antara 5000 hingga 10000
 6. Pekerja yang memiliki Monthly Income lebih dari di antara 2500 hingga 5000
 7. Pekerja yang memiliki jarak tempat tinggal dan kantor berada di rentang kurang dari 5km.
+
+### Rekomendasi Action Items
+1. Dilihat dari pekerja yang melakukan attrition berada pada rentang usia 25-35 tahun, di mana usia tersebut tergolong muda. Perusahaan sebaiknya menerapkan mentoring pada pekerja di mana pekerja muda dapat belajar dari pekerja yang lebih senior.
+2. Perusahaan menawarkan jam kerja yang fleksibel atau opsi bekerja dari rumah untuk membantu pekerja mengelola pekerjaan dan kehidupan pribadi.
+3. Perusahaan memberikan penghargaan kepada pekerja yang telah mencapai waktu tertentu dalam perusahaan (misalnya setiap tahun mendapatkan reward).
+4. Untuk meningkatkan keterlibatan pekerja perusahaan sebaiknya melibatkan pekerja dalam pengambilan keputusan yang berhubungan dengan pekerjaan mereka.
+5. Perusahaan sebaiknya mengimplementasikan skema bonus dan insentif berdasarkan kinerja untuk meningkatkan motivasi pekerja.
+6. Perusahaan menciptakan program komunitas atau klub di lingkungan kantor yang dapat meningkatkan rasa kebersamaan di antara pekerja yang memiliki tempat tinggal yang dekat dengan kantor.
