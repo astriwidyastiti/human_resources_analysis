@@ -21,3 +21,4 @@ Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/
 
 
 ## Business Dashboard
+https://github.com/astriwidyastiti/human_resources_analysis/blob/main/Dashboard_Jaya_Jaya_Maju.jpg 
