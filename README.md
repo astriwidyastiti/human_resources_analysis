@@ -22,3 +22,30 @@ Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/
 
 ## Business Dashboard
 ![image](https://private-user-images.githubusercontent.com/112534966/334491345-93b411d9-e09b-49f2-a323-d327aaed01e7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY5MTMwNjgsIm5iZiI6MTcxNjkxMjc2OCwicGF0aCI6Ii8xMTI1MzQ5NjYvMzM0NDkxMzQ1LTkzYjQxMWQ5LWUwOWItNDlmMi1hMzIzLWQzMjdhYWVkMDFlNy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyOFQxNjEyNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODU3MjhmODhhNzZhOTE1NzI5YTJiOGVlMGZjOTFjNjQwNzcxNTU3OTBlYzIyYTY1MjcxM2Q3MjQ3YmNlZjgyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ALgAsU5J1SmarRTeKfMZCiRJQgPQQ3EFsVF1UtTHuNw)
+
+Untuk mengakses dashboard tersebut dapat melalui link https://lookerstudio.google.com/reporting/f181caa2-827d-4c48-a92c-4ac7defbe61a
+
+Pada perusahaan Jaya Jaya Maju terdapat total 1470 total karyawan yang terdaftar, 179 sudah berpindah perusahaan.
+
+Adapun beberpa faktor yang dapat dilihat dari dashboard tersebut dan harapannya dapat membantu HR dalam memantau faktor tersebut, diantaranya :
+
+Gender = Dalam dashboard dapat terlihat bahwa karyawan yang berpindah perusahaan sebesar 60,3 % adalah laki-laki
+Job Role = Dalam dashboard dapat dilihat bahwa pekerja yang melakukan attrition paling banyak adalah Laboratory Technician
+Departments = Dalam dashboard dapat dilihat bahwa department yang banyak kehilangan pekerja adalah department Research & Developments sebesar 59,8%
+Work Life Balance = Dalam dashboard dapat terlihat bahwa karyawan yang berpindah perusahaan terbesar memiliki work life balance rating 3, dimana jika dikategorikan score rating 3 tidak terlalu buruk.
+Age = Dalam dashboard dapat terlihat bahwa karyawan yang berpindah perusahaan terbanyak pada umur 31, diikuti oleh umur 29 dan 26, dalam kata lain bisa dikatakan bahwa karyawan muda banyak yang berpindah perusahaan dibandingkan karyawan seniornya
+Years At Company = Dalam dashboard dapat terlihat bahwa karyawan yang paling banyak melakukan attrition adalah pekerja yang bekerja pada tahun pertama.
+Distance From Home = Dalam dashboar terlihat bahwa pekerja yang melakukan attrition adalah pekerja yang tinggal tidak jauh dari perushaan.
+
+## Conclusion
+Berdasarkan hasil analisis dengan menggunakan kmeans clustering : Pekerja yang paling banyak melakukan attrition adalah pekerja yang berada pada segment 2
+
+
+
+Pekerja yang memiliki usia di antara 25 tahun hingga 35 tahun
+Pekerja yang memiliki nilai worklife balance 3 hingga 4 (excellent-outstanding)
+Pekerja yang sudah bekerja kurang lebih 1-5 tahun
+Pekerja yang memiliki job involvement (keterlibatan selama bekerja) dengan nilai 2 hingga 3 (medium-high)
+Pekerja yang memiliki Monthly Rate di antara 5000 hingga 10000
+Pekerja yang memiliki Monthly Income lebih dari di antara 2500 hingga 5000
+Pekerja yang memiliki jarak tempat tinggal dan kantor berada di rentang kurang dari 5km.
