@@ -39,6 +39,7 @@ Adapun beberpa faktor yang dapat dilihat dari dashboard tersebut dan harapannya 
 
 ## Conclusion
 Berdasarkan hasil analisis dengan menggunakan kmeans clustering : Pekerja yang paling banyak melakukan attrition adalah pekerja yang berada pada segment 2
+
 ![segment](https://github.com/astriwidyastiti/human_resources_analysis/assets/81604461/36eeaf1b-d17e-43c2-b214-60384e3d5410)
 
 Visualisasi masin-masing segment:
