@@ -16,7 +16,15 @@ Menganalisa Berbagai Faktor yang mempengaruhi attrition rate pada perusahaan Jay
 6. Apakah terdapat korelasi antara Monthly Income dengan tingkat attrition?
 7. Bagaimana peran jarak tempat tinggal dan kantor dalam keputusan pekerja untuk melakukan attrition?
 
-Analisis faktor-faktor yang mempengaruhi attrition rate pada perusahaan Jaya Jaya Maju menggunakan KMeans Clustering. Melakukan evaluasi pada model yang telah dibuat dengan menggunakan metrik inertia dan silhouette coefficient
+Analisis faktor-faktor yang mempengaruhi attrition rate pada perusahaan Jaya Jaya Maju dilakukan dengan menggunakan KMeans Clustering. Feature yang digunakan untuk melakukan clustering antara lain:
+1. Age
+2. WorkLifeBalance
+3. YearsAtCompany
+4. JobInvolvement
+5. MonthlyRate
+6. MonthlyIncome
+7. DistanceFromHome
+Evaluasi pada model yang telah dibuat menggunakan metrik inertia dan silhouette coefficient.
 
 ### Persiapan
 Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/employee/employee_data.csv
