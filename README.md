@@ -21,7 +21,7 @@ Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/
 
 
 ## Business Dashboard
-![image](https://user-images.githubusercontent.com/81604461/334757217-3444bfa7-19a6-4acb-8697-1bc1a3c8e057.jpg?raw=true)
+![image](https://github.com/astriwidyastiti/human_resources_analysis/assets/81604461/c3675c91-7ba8-4b2a-ac2a-ae4d96c05724.jpg?raw=true)
 
 Untuk mengakses dashboard tersebut dapat melalui link https://lookerstudio.google.com/reporting/f181caa2-827d-4c48-a92c-4ac7defbe61a
 
