@@ -21,7 +21,11 @@ Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/
 
 
 ## Business Dashboard
+<div align="center">
+  
 ![image](https://github.com/astriwidyastiti/human_resources_analysis/assets/81604461/c3675c91-7ba8-4b2a-ac2a-ae4d96c05724)
+
+</div>
 
 Untuk mengakses dashboard tersebut dapat melalui link https://lookerstudio.google.com/reporting/f181caa2-827d-4c48-a92c-4ac7defbe61a
 
@@ -40,12 +44,19 @@ Adapun beberpa faktor yang dapat dilihat dari dashboard tersebut dan harapannya 
 ## Conclusion
 Berdasarkan hasil analisis dengan menggunakan kmeans clustering : Pekerja yang paling banyak melakukan attrition adalah pekerja yang berada pada segment 2
 
+<div align="center">
+  
 ![segment](https://github.com/astriwidyastiti/human_resources_analysis/assets/81604461/36eeaf1b-d17e-43c2-b214-60384e3d5410)
+
+</div>
 
 Visualisasi masin-masing segment:
 
+<div align="center">
+  
 ![visualize](https://github.com/astriwidyastiti/human_resources_analysis/assets/81604461/b13845b5-9eae-44ee-b5ca-ea207a5d4a97)
 
+</div>
 
 Berdasarkan hasil clustering dengan menggunakan kMeans dan visualisasi masing-masing faktor, didapatkan bahwa pekerja yang banyak melakukan attrition adalah pekerja dengan karakteristik berikut:
 1. Pekerja yang memiliki usia di antara 25 tahun hingga 35 tahun
