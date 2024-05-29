@@ -24,6 +24,7 @@ Analisis faktor-faktor yang mempengaruhi attrition rate pada perusahaan Jaya Jay
 5. MonthlyRate
 6. MonthlyIncome
 7. DistanceFromHome
+
 Evaluasi pada model yang telah dibuat menggunakan metrik inertia dan silhouette coefficient.
 
 ### Persiapan
