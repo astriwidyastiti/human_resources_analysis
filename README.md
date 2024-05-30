@@ -30,6 +30,10 @@ Evaluasi pada model yang telah dibuat menggunakan metrik inertia dan silhouette 
 ### Persiapan
 Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/employee/employee_data.csv
 
+Setup Environment 
+
+https://lookerstudio.google.com/navigation/reporting
+
 
 ## Business Dashboard
 <div align="center">
