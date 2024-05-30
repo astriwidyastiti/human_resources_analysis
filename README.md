@@ -32,7 +32,8 @@ Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/
 
 Setup Environment 
 
-https://lookerstudio.google.com/navigation/reporting
+import pandas as pd
+
 
 
 ## Business Dashboard
