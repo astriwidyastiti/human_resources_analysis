@@ -31,6 +31,14 @@ Evaluasi pada model yang telah dibuat menggunakan metrik inertia dan silhouette 
 Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/employee/employee_data.csv
 
 ## Setup Environment - Google Colab
+1. Buka notebook
+
+2. Upload file requirements.txt ke colab
+
+3. Tuliskan pip install -r requirements.txt pada sell code
+
+4. Jalankan keseluruhan code pada notebook
+
 Library Persiapan Data
 
 ```
