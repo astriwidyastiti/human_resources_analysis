@@ -39,27 +39,6 @@ Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/
 
 4. Jalankan keseluruhan code pada notebook
 
-Library Persiapan Data
-
-```
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
-
-Library Modelling dan Evaluasi
-```
-from sklearn.preprocessing import PowerTransformer
-import joblib
-import numpy as np
-from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
-import warnings
-import matplotlib.pyplot as plt
-import joblib
-from google.colab import drive
-drive.mount('/content/drive')
-```
 
 ## Business Dashboard
 <div align="center">
