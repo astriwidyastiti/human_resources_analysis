@@ -30,8 +30,7 @@ Evaluasi pada model yang telah dibuat menggunakan metrik inertia dan silhouette 
 ### Persiapan
 Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/employee/employee_data.csv
 
-Setup Environment - Google Colab
-
+## Setup Environment - Google Colab
 Library Persiapan Data
 
 ```
@@ -53,8 +52,6 @@ import joblib
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-
-
 
 ## Business Dashboard
 <div align="center">
